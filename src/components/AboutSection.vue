@@ -39,7 +39,7 @@
              </div>
           </div>
           <div class="col-lg-5 d-flex justify-content-center fade-left">
-            <img class="d-none d-lg-block shadow" style="border: 1px solid rgb(143, 201, 167);" src="/src/assets/img/Resume.png" alt="Resume" width="65%" height="90%">
+            <img class="d-none d-lg-block shadow" style="border: 1px solid rgb(143, 201, 167);" src="src/assets/img/Resume.png" alt="Resume" width="65%" height="90%">
           </div>
         </div>
         </div>
