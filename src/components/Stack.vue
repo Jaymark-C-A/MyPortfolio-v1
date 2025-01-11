@@ -8,7 +8,7 @@
             <div class="row">
               <div class="col-lg-2 mb-2" v-for="stacks in Stack" :key="stacks.id">
                 <div class="card text-center text-light pt-2 pb-1 px-4 bg-transparent fade-left "  style="border: 1px solid white; border-radius: 10px;">
-                  <img :src="`/img/stack/html.svg`" :alt="stacks.title" class="pb-1 d-none d-lg-block" width="100%" height="auto">
+                  <img :src="stacks.image" :alt="stacks.title" class="pb-1 d-none d-lg-block" width="100%" height="auto">
                   <p class="pm-0 mb-0" style="font-size: 11px; font-weight: 600;">{{ stacks.title }}</p>
                 </div>
               </div>
