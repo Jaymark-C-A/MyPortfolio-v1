@@ -33,7 +33,8 @@ export default {
 </script>
 
 <style>
-  body{
+  html, body {
+    overflow-x: hidden;
     background: #cecece;
   }
   .fade-right {
