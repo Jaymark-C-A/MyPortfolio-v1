@@ -28,7 +28,7 @@
         Stack: [
           {
             id: 1,
-            image: "../src/assets/img/stack/html.svg",
+            image: require('@/assets/img/stack/html.svg'),
             title: "HTML",
           },
           {
