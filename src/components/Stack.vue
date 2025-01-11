@@ -15,7 +15,6 @@
             </div>
           </div>
         </div>
-<<<<<<< HEAD
         <div class="col-lg-2"></div>
       </div>
     </div>
@@ -45,81 +44,3 @@ export default {
   },
 };
 </script>
-=======
-        </div>
-    </section>
-  </template>
-  
-  <script lang="ts">
-  export default {
-    name: "Stack",
-    data() {
-      return {
-        Stack: [
-          {
-            id: 1,
-            image: "./src/assets/img/stack/html.svg",
-            title: "HTML",
-          },
-          {
-            id: 2,
-            image: "src/assets/img/stack/css.svg",
-            title: "CSS",
-          },  
-          {
-            id: 3,
-            image: "src/assets/img/stack/bootstrap.svg",
-            title: "Bootstrap",
-          },
-          {
-            id: 4,
-            image: "src/assets/img/stack/javascript.svg",
-            title: "JavaScript",
-          },
-          {
-            id: 5,
-            image: "src/assets/img/stack/typescript.svg",
-            title: "TypeScript",
-          },
-          {
-            id: 6,
-            image: "src/assets/img/stack/react.svg",
-            title: "React",
-          },  
-          {
-            id: 7,
-            image: "src/assets/img/stack/vue.svg",
-            title: "Vue",
-          },
-          {
-            id: 8,
-            image: "src/assets/img/stack/vite.svg",
-            title: "Vite",
-          },
-          {
-            id: 9,
-            image: "src/assets/img/stack/node.svg",
-            title: "Node JS",
-          },
-          {
-            id: 10,
-            image: "src/assets/img/stack/php.png",
-            title: "PHP",
-          },
-          {
-            id: 11,
-            image: "src/assets/img/stack/laravel.svg",
-            title: "Laravel",
-          },
-          {
-            id: 12,
-            image: "src/assets/img/stack/mysql.svg",
-            title: "MySQL",
-          },
-        ],
-      };
-    },
-  };
-  </script>
-  
->>>>>>> 4aa2dd2ef18de725a2a296837630e0e79576d57d
