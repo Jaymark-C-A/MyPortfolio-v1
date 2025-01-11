@@ -21,6 +21,7 @@
   </template>
   
   <script lang="ts">
+import htmlImage from '@/assets/img/stack/html.svg';
   export default {
     name: "Stack",
     data() {
@@ -28,7 +29,7 @@
         Stack: [
           {
             id: 1,
-            image: require('@/assets/img/stack/html.svg'),
+            image: htmlImage,
             title: "HTML",
           },
           {
