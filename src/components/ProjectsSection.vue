@@ -54,7 +54,7 @@ export default {
         {
           id: 2,
           title: "Transaction Monitoring System",
-          description: "A stylish and user-friendly car rental service, seamlessly powered by HTML and JavaScript, and designed with Bootstrap.",
+          description: "The transaction monitoring system (TMS) streamlines visitor management, ticketing, and feedback collection with features like multi-slide forms, real-time tracking, and color-coded tickets for improved efficiency and satisfaction.",
           image: "Tms.png",
           link1: "https://github.com/Jaymark-C-A/TransactionMonitoring",
           link2: "#",
