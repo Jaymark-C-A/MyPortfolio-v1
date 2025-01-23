@@ -10,7 +10,7 @@
                     <div id="animated-text-container">
                         <div id="animated-text" class="mb-2" style="line-height: 40px; font-size: 40px; margin-bottom: -2px; color: rgb(197, 197, 197); font-weight: 600;"></div>                    
                     </div>
-                    <div class="mb-3" style="line-height: 45px; font-size: 35px; color: rgb(109, 138, 139); font-weight: 600;">
+                    <div class="mb-3" style="line-height: 35px; font-size: 45px; color: rgb(109, 138, 139); font-weight: 600;">
                         I create web solutions.
                     </div>
                     <p class="w-md-100 p-0" style="font-size: 12px; line-height: 20px; color: rgb(109, 138, 139);">
