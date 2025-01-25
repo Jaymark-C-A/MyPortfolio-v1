@@ -1,5 +1,5 @@
 <template>
-    <section style="font-family: Arial, Helvetica, sans-serif; background-color: #071e33; width: 100%; height: 65vh;">
+    <section style="font-family: Arial, Helvetica, sans-serif; background-color: #071e33; width: 100%; height: 80vh;">
       <div class="container pt-md-5 ">
             <div class="row">
                 <div class="col-lg-2"></div>
